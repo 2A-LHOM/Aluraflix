@@ -1,0 +1,19 @@
+header{
+     border-bottom: solid 5px rbg(230, 49, 49);
+     font-size: 25px;
+     color: rbg(230, 49, 49);
+} 
+body{
+     background: orange;
+     color: black;
+}
+section{
+    padding-bottom: 80px;
+     padding-top:80px;
+     display:flex;
+     justify-content:center;
+}
+div{
+     margin-right: 20px;
+     
+}
